@@ -1,7 +1,4 @@
 # ElixirHashCompare
-
-**TODO: Add description**
-
-An exmaple module used to print out changes between two maps.
+An example module used to print out changes between two maps.
 
 Test cases are available in `/test/elixir_hash_compare_tests.exs`. Run them with `mix test`.
